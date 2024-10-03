@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+ .heading1 { 
+	 color: #2a7ae2;
+ }
+    .heading2 { color: #f44336; }
+    .heading3 { color: #4caf50; }
+    .heading4 { color: #ff9800; }
+    .heading5 { color: #607d8b; }
+    .heading6 { color: #ffeb3b; 
